@@ -6,8 +6,8 @@ import json
 csvFilePath = 'C:/Users/bcornwell/Documents/at_chars.csv'
 jsonFilePath = 'C:/Users/bcornwell/Documents/jsons/'
 client = boto3.client('dynamodb',
-    aws_access_key_id="AKIA3XXAKRH4Y4WIVG4C",
-    aws_secret_access_key="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",
+    aws_access_key_id="AAAAAAAAAAAAAAAAAAAAA",
+    aws_secret_access_key="zzzzzzzzzzzzzzzzzzzz..",
 					  )
 #data = pd.read_csv(csvFilePath)
 #data.columns = ["chars"]
